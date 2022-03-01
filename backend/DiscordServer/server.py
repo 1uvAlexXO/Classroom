@@ -31,15 +31,15 @@ class Roles(Enum):
 
 # all required text channels that should be present at all times go here
 class TextChannels(Enum):
-    ANNOUNCEMENTS = "announcements"
+    ANNOUNCEMENTS = "📄∷･𝘢𝘯𝘯𝘰𝘶𝘯𝘤𝘦𝘮𝘦𝘯𝘵𝘴･୨♡"
     REMINDERS = "reminders"
-    TEACHERS_LOUNGE = "teachers-lounge"
+    TEACHERS_LOUNGE = "✦teachers-lounge"
     HOMEWORK = "homework"
-    DISCUSSION = "discussion"
+    DISCUSSION = "↱main-chat☾"
 
 
 load_dotenv()
-TOKEN = os.getenv('DISCORD_TOKEN')
+TOKEN = OTQ4MjY4MDM4NzE5OTMwNDU4.Yh5Vbg._tbkBS329KQ-U9wUqUizSno1JwY('DISCORD_TOKEN')
 
 password = "X7Mz&&am:&dOhnhk|Oq0$W^MYgkD3V|jgp/1*7{5=I4QLC:HFpC&P+FgL>A*w-F"
 user = "TeachingAssistant"
