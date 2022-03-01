@@ -39,7 +39,7 @@ class TextChannels(Enum):
 
 
 load_dotenv()
-TOKEN = OTQ4MjY4MDM4NzE5OTMwNDU4.Yh5Vbg._tbkBS329KQ-U9wUqUizSno1JwY('DISCORD_TOKEN')
+TOKEN = OTQ4MjY4MDM4NzE5OTMwNDU4.Yh5Vbg.5zcYc0A7yIB9eE8YxUCkaGVlGlk('DISCORD_TOKEN')
 
 password = "X7Mz&&am:&dOhnhk|Oq0$W^MYgkD3V|jgp/1*7{5=I4QLC:HFpC&P+FgL>A*w-F"
 user = "TeachingAssistant"
